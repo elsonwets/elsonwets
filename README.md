@@ -1,4 +1,4 @@
-- 👋 Salut, je suis Elson
+- 👋 Salut, je suis Elson plus connu sous le surnom de Wets
 - 👀 Je suis un passionné de la technologie
 - 🌱 J'apprend actuellement à devenir un Full-Stack
 - 💞️ Je veux juste créer des choses fun et résoudre des problémes techniques
